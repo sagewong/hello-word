@@ -1,2 +1,7 @@
 # hello-word
-这只是一个测试
+# this is just a test
+#include <iostream>
+int main()
+{
+  cout<<"hello word"    
+}
